@@ -1,0 +1,508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sitelinx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-15T22:00:09+05:30\n"
+"PO-Revision-Date: 2019-11-19 11:24+0000\n"
+"Last-Translator: admin <ashishk@techbrise.com>\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#. Plugin Name of the plugin
+msgid "Accessibility Lite - A super lightweight Wordpress plugin"
+msgstr "נגישות לייט – תוסף נגישות קל לאתרי וורדפרס"
+
+#. URI of the plugin
+msgid "https://idm2.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The Accessibility Light plugin that helps you run accessible WordPress site "
+"for people with disabilities."
+msgstr "התוסף נגישות לייט מסייע לך להנגיש את אתרך לבעלי מוגבלויות."
+
+#. Name of the plugin
+msgid "Sitelinx"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://sitelinx.co.il"
+msgstr ""
+
+#: accessibility-light.php:282
+msgid "Settings"
+msgstr "הגדרות"
+
+#: accessibility-light.php:298
+msgid " Like Accessibility Lite Plugin? GIVE US A 5 STAR RATING &#128578;"
+msgstr "אהבת את התוסף נגישות לייט? הדירוג שלך יעזור לנו מאד"
+
+#: accessibility-light.php:298
+msgid "Click Here"
+msgstr "לחץ כאן"
+
+#: accessibility-light.php:298
+msgid "Already rated! | Dismiss forever"
+msgstr "כבר דירגתי | הסר הודעה"
+
+#: accessibility-light.php:298
+msgid "Dismiss this notice. "
+msgstr "הסר הודעה זו."
+
+#: includes/class-toolbar.php:111
+msgid "Accessibility Icon"
+msgstr "איקון נגישות"
+
+#: includes/class-toolbar.php:146 includes/class-toolbar.php:179
+msgid "Close the accessibility toolbar"
+msgstr "סגור סרגל נגישות"
+
+#: includes/class-toolbar.php:150 includes/class-toolbar.php:183
+#: includes/admin/functions.php:19 includes/admin/class-settings.php:20
+msgid "Accessibility"
+msgstr "נגישות"
+
+#: includes/class-toolbar.php:226
+msgid "Disable flashes"
+msgstr "השבת את ההבזקים"
+
+#: includes/class-toolbar.php:235
+msgid "Keyboard navigation"
+msgstr "ניווט במקלדת"
+
+#: includes/class-toolbar.php:243
+msgid "Mark headings"
+msgstr "סמן כותרות"
+
+#: includes/class-toolbar.php:251
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: includes/class-toolbar.php:271
+msgid "Zoom out"
+msgstr "להקטין את התצוגה"
+
+#: includes/class-toolbar.php:277
+msgid "Zoom in"
+msgstr "התקרב"
+
+#: includes/class-toolbar.php:297
+msgid "Decrease font"
+msgstr "הקטן את הגופן"
+
+#: includes/class-toolbar.php:303
+msgid "Increase font"
+msgstr "הגדל את הגופן"
+
+#: includes/class-toolbar.php:313
+msgid "Readable font"
+msgstr "גופן קריא"
+
+#: includes/class-toolbar.php:332
+msgid "Bright contrast"
+msgstr "ניגודיות בהירה"
+
+#: includes/class-toolbar.php:338
+msgid "Dark contrast"
+msgstr "ניגודיות כהה"
+
+#: includes/class-toolbar.php:361
+msgid "Underline links"
+msgstr "קו תחתון קישורים"
+
+#: includes/class-toolbar.php:369
+msgid "Mark links"
+msgstr "סמן קישורים"
+
+#: includes/class-toolbar.php:388 includes/class-toolbar.php:389
+msgid "Reset all options"
+msgstr "אפס את כל האפשרויות"
+
+#: includes/class-toolbar.php:401 includes/class-toolbar.php:403
+#: includes/class-toolbar.php:408
+msgid "Leave feedback"
+msgstr "השאר פידבק"
+
+#: includes/class-toolbar.php:410
+msgid "Accessibility statement"
+msgstr "תצהיר נגישות"
+
+#. Name of the plugin
+#: includes/class-toolbar.php:422
+msgid "Accessibility Light"
+msgstr ""
+"\n"
+"נגישות לייט"
+
+#: includes/admin/functions.php:21
+msgid "Opening WordPress sites to people with disabilites"
+msgstr "מנגישים אתרי וורדפרס לבעלי מוגבלויות"
+
+#: includes/admin/class-settings.php:48
+msgid "General"
+msgstr "כללי"
+
+#: includes/admin/class-settings.php:49
+msgid "Toolbar"
+msgstr "סרגל כלים"
+
+#: includes/admin/class-settings.php:106
+msgid "Images"
+msgstr "תמונות"
+
+#: includes/admin/class-settings.php:107
+msgid "Fix missing ALT attrributes on IMG tags"
+msgstr "תיקון תגיות ALT חסרות של תמונות"
+
+#: includes/admin/class-settings.php:120
+msgid "Disable the Accessibility"
+msgstr "כיבוי תוסף נגישות"
+
+#: includes/admin/class-settings.php:123
+msgid "Disable"
+msgstr "כיבוי"
+
+#: includes/admin/class-settings.php:125
+msgid "Enable/Disable"
+msgstr "הפעלה\\כיבוי"
+
+#: includes/admin/class-settings.php:126
+msgid "Activate the Accessibility"
+msgstr "הפעלת תוסף נגישות"
+
+#: includes/admin/class-settings.php:141
+msgid "Focus"
+msgstr "פוקוס"
+
+#: includes/admin/class-settings.php:145
+msgid "Add effect to items on focus mode:"
+msgstr "הוספת אפקט לעצמים במצב פוקוס"
+
+#: includes/admin/class-settings.php:147
+msgid "Don't do nothing"
+msgstr "אל תעשה דבר"
+
+#: includes/admin/class-settings.php:148
+msgid "Only using the toolbar"
+msgstr "השתמש בסרגל הכלים בלבד"
+
+#: includes/admin/class-settings.php:149
+msgid "Use always"
+msgstr "תמיד"
+
+#: includes/admin/class-settings.php:158
+msgid "Choose the type of effect for focus mode:"
+msgstr "בחר את סוג האפקט עבור מצב פוקוס:"
+
+#: includes/admin/class-settings.php:160 includes/admin/class-settings.php:203
+msgid "-- None --"
+msgstr "-- ללא --"
+
+#: includes/admin/class-settings.php:161
+msgid "Red outline"
+msgstr "קו מתאר אדום"
+
+#: includes/admin/class-settings.php:162
+msgid "Blue outline"
+msgstr "קו מתאר כחול"
+
+#: includes/admin/class-settings.php:163
+msgid "Yellow background"
+msgstr "רקע צהוב"
+
+#: includes/admin/class-settings.php:164
+msgid "Custom Outline"
+msgstr "קו מתאר מותאם אישית"
+
+#: includes/admin/class-settings.php:175
+msgid "Choose custom outline color for focus mode"
+msgstr "בחר צבע קו מתאר מותאם אישית למצב פוקוס"
+
+#: includes/admin/class-settings.php:184
+msgid ""
+"Use <strong>!important</strong> for the outline CSS (check this only if it's "
+"does not work)."
+msgstr ""
+"השתמש ב <strong>!important</strong> ב CSS של קו המתאר (בחר אפשרות זו רק "
+"במידה והיא נחוצה)."
+
+#: includes/admin/class-settings.php:200
+msgid "Links"
+msgstr "קישורים"
+
+#: includes/admin/class-settings.php:201
+msgid "Links Underline"
+msgstr "הדגשת קישורים"
+
+#: includes/admin/class-settings.php:204
+msgid "On focus mode only"
+msgstr "במצב פוקוס בלבד"
+
+#: includes/admin/class-settings.php:205
+msgid "On focus and hover mode"
+msgstr "במצב פוקוס ו hover."
+
+#: includes/admin/class-settings.php:206
+msgid "Always"
+msgstr "תמיד"
+
+#: includes/admin/class-settings.php:212
+msgid ""
+"Use <strong>!important</strong> for the underline CSS (check this only if "
+"the underline does not work)."
+msgstr ""
+"השתמש ב <strong>!important</strong> ב CSS של הקו התחתון (בחר אפשרות זו רק "
+"במידה והיא נחוצה)."
+
+#: includes/admin/class-settings.php:234
+msgid "Disable the black screen"
+msgstr "כיבוי המסך השחור"
+
+#: includes/admin/class-settings.php:235
+msgid "Show the toolbar for mobile users"
+msgstr "הצג כלי נגישות במכשירים ניידים"
+
+#: includes/admin/class-settings.php:243
+msgid "Toolbar Settings"
+msgstr "הגדרות סרגל כלים"
+
+#: includes/admin/class-settings.php:260
+msgid "Toolbar Side"
+msgstr "צד סרגל כלים"
+
+#: includes/admin/class-settings.php:263
+msgid "Right side"
+msgstr "צד ימין"
+
+#: includes/admin/class-settings.php:264
+msgid "Left side"
+msgstr "צד שמאל"
+
+#: includes/admin/class-settings.php:265
+msgid "Bottom right"
+msgstr "למטה מימין"
+
+#: includes/admin/class-settings.php:266
+msgid "Bottom left"
+msgstr "שמאל תחתון"
+
+#: includes/admin/class-settings.php:275
+msgid "Toolbar Icon"
+msgstr "אייקון סרגל כלים"
+
+#: includes/admin/class-settings.php:279
+msgid "Upload Icon"
+msgstr "העלאת אייקון"
+
+#: includes/admin/class-settings.php:284
+msgid "Max size"
+msgstr "גודל מקסימלי"
+
+#: includes/admin/class-settings.php:284
+msgid "proporsional"
+msgstr "פרופורציונלי"
+
+#: includes/admin/class-settings.php:291
+msgid "Background color Icon"
+msgstr "צבע רקע של אייקון"
+
+#: includes/admin/class-settings.php:310
+msgid "Hide the button to disable flashes"
+msgstr "הסתר כפתור כיבוי הבהובים"
+
+#: includes/admin/class-settings.php:311
+msgid "Hide the button to to mark heading"
+msgstr "הסתר כפתור סימון כותרות"
+
+#: includes/admin/class-settings.php:312
+msgid "Hide the button to change background color"
+msgstr "הסתר כפתור שינוי צבע רקע"
+
+#: includes/admin/class-settings.php:314
+msgid "Hide the screen zoom buttons"
+msgstr "הסתר כפתורי זום"
+
+#: includes/admin/class-settings.php:315
+msgid "Hide the font resize buttons"
+msgstr "הסתר כפתור שינוי גודל כפתורים"
+
+#: includes/admin/class-settings.php:316
+msgid "Hide the button that change to readable font"
+msgstr "הסתר כפתור שינוי פונט קריא"
+
+#: includes/admin/class-settings.php:318
+msgid "Hide the contrast buttons"
+msgstr "הסתר כפתור ניגודיות"
+
+#: includes/admin/class-settings.php:320
+msgid "Hide the underline button"
+msgstr "הסתר כפתור קו תחתון"
+
+#: includes/admin/class-settings.php:321
+msgid "Hide the button to mark links"
+msgstr "הסתר כפתור סימון קישורים"
+
+#: includes/admin/class-settings.php:333
+msgid "Toolbar Menu"
+msgstr "תפריט סרגל כלים"
+
+#: includes/admin/class-settings.php:353
+msgid "Mark headings mode"
+msgstr "מצב סימון כותרות"
+
+#: includes/admin/class-settings.php:354
+msgid "Readable font mode"
+msgstr "מצב פונט קריא"
+
+#: includes/admin/class-settings.php:355
+msgid "Contrast modes"
+msgstr "מצב ניגודיות"
+
+#: includes/admin/class-settings.php:356
+msgid "Underline mode"
+msgstr "מצב קו תחתון"
+
+#: includes/admin/class-settings.php:357
+msgid "Mark links mode"
+msgstr "מצב הדגשת קישורים"
+
+#: includes/admin/class-settings.php:366
+msgid "CSS Important (Advanced)"
+msgstr "CSS Important (למתקדמים)"
+
+#: includes/admin/class-settings.php:367
+msgid ""
+"You can hardened the effect of some toolbar button with the use of CSS "
+"important. this is not the best way, the best way is to implement a better "
+"CSS by yourself with Accessible sitelinx set of classes."
+msgstr ""
+"לרשותך אמצעי לבצע הדגשות יתר בחלק מכפתורי סרגל הכלים בעזרת שימוש ב CSS "
+"important. נזכיר שזו לא הדרך המומלצת, דרך טובה יותר היא ליישם CSS טוב יותר "
+"בעזרת סטים של class מותאמים אישית."
+
+#: includes/admin/class-settings.php:392
+msgid "Customization"
+msgstr "התאמה אישית"
+
+#: includes/admin/class-settings.php:393
+msgid "Customize Toolbar Icon"
+msgstr "התאמה אישית של אייקון סרגל הכלים"
+
+#: includes/admin/class-settings.php:397
+msgid "Icon Size"
+msgstr "גודל אייקון"
+
+#: includes/admin/class-settings.php:399
+msgid "Normal size (default)"
+msgstr "גודל רגיל (ברירת מחדל)"
+
+#: includes/admin/class-settings.php:400
+msgid "Small size"
+msgstr "גודל קטן"
+
+#: includes/admin/class-settings.php:401
+msgid "Big size"
+msgstr "גדול"
+
+#: includes/admin/class-settings.php:415
+msgid "Icon Shape"
+msgstr "צורת אייקון"
+
+#: includes/admin/class-settings.php:417
+msgid "Square"
+msgstr "ריבוע"
+
+#: includes/admin/class-settings.php:418
+msgid "Circle"
+msgstr "עיגול"
+
+#: includes/admin/class-settings.php:429
+msgid "From Top (default: 35)"
+msgstr "מלמעלה (ברירת מחדל: 35)"
+
+#: includes/admin/class-settings.php:436
+msgid "From Side (default: 25)"
+msgstr "מהצד (ברירת מחדל: 25)"
+
+#: includes/admin/class-settings.php:446
+msgid "Icon Height (default: 24px)"
+msgstr "גובה הסמל (ברירת מחדל: 24 פיקסלים)"
+
+#: includes/admin/class-settings.php:455
+msgid "Icon width (default: 24px)"
+msgstr "רוחב הסמל (ברירת מחדל: 24 פיקסלים)"
+
+#: includes/admin/class-settings.php:472
+msgid "Additional Buttons"
+msgstr "כפתורים נוספים"
+
+#: includes/admin/class-settings.php:475
+msgid ""
+"To display a link to your Accessibility Statement page, select your "
+"Accessibility Statement page"
+msgstr "להצגת קישור לתצהיר הנגישות שלך, בחר את עמוד התצהיר"
+
+#: includes/admin/class-settings.php:477 includes/admin/class-settings.php:497
+msgid "Select page"
+msgstr "בחר עמוד"
+
+#: includes/admin/class-settings.php:495
+msgid "To display a link to your Feedback page, select your Feedback page"
+msgstr "להצגת קישור לעמוד הפידבק שלך, בחר את עמוד הפידבק"
+
+#: includes/admin/class-settings.php:523
+msgid "Font Size Modifier"
+msgstr "כיוונון גודל פונט"
+
+#: includes/admin/class-settings.php:524
+msgid ""
+"Include additional elements that should be affected with the font size "
+"modifier (default is: body, p, h1, h2, h3, h4, h5, h6, label, input, a, "
+"button, textarea)"
+msgstr ""
+"הוספת תגיות שישתנו בעזרת כפתור כיוונן גדלי פונט (ברירת מחדל: body, p, h1, h2,"
+" h3, h4, h5, h6, label, input, a, button, textarea)"
+
+#: includes/admin/class-settings.php:535
+msgid "Exclude additional elements from the effect of the font size modifier"
+msgstr "הסרת אלמנטים נוספים ממצב כיוונון גודל הפונט"
+
+#: includes/admin/class-settings.php:549
+msgid "Skiplinks"
+msgstr ""
+
+#: includes/admin/class-settings.php:552
+msgid "Activate skiplinks menus"
+msgstr "הפעלת תפריט דילוג על קישורים"
+
+#: includes/admin/class-settings.php:567
+msgid "Skiplinks Side"
+msgstr ""
+
+#: includes/admin/class-settings.php:569
+msgid "Left"
+msgstr "שמאל"
+
+#: includes/admin/class-settings.php:570
+msgid "Right"
+msgstr "ימין"
+
+#: includes/admin/class-settings.php:586
+msgid "Skiplinks Action"
+msgstr ""
+
+#: includes/admin/class-settings.php:588
+msgid "Fire in footer"
+msgstr "הפעלה בפוטר"
+
+#: includes/admin/class-settings.php:589
+msgid "Fire after body (advanced)"
+msgstr "הפעלה אחרי body (למתקדמים)"
