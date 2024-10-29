@@ -70,20 +70,20 @@ jQuery(document).ready(function($){
 
 	$("#sitelinx-black-screen").click(function(){
 		sitelinx_closeToolbar();
-		// $("#sitelinx-toggle-toolbar").show('slow');
+		$("#sitelinx-toggle-toolbar").show('slow');
 	});
 	$("#sitelinx-close-toolbar").click(function(){
 		sitelinx_closeToolbar();
-		// $("#sitelinx-toggle-toolbar").show('slow');
+		$("#sitelinx-toggle-toolbar").show('slow');
 	});
 	$("#sitelinx-toggle-toolbar img").click(function(){
 		sitelinx_openToolbar();
-		// $("#sitelinx-toggle-toolbar").hide();
+		$("#sitelinx-toggle-toolbar").hide();
 	});
-	//tbs code
+	//tbs code 
 	$("#sitelinx-toggle-toolbar").click(function(){
 		sitelinx_openToolbar();
-		// $("#sitelinx-toggle-toolbar").hide();
+		$("#sitelinx-toggle-toolbar").hide();
 	});
 	
 	// disable animation
@@ -199,13 +199,13 @@ jQuery(document).ready(function($){
 			// var backup_bg = $("body.sitelinx-background-color #sitelinx-body-wrap *:not(#sitelinx-toggle-toolbar, #sitelinx-toggle-toolbar img)").css("background-color");
 			// $("body.sitelinx-background-color #sitelinx-body-wrap *:not(#sitelinx-toggle-toolbar, #sitelinx-toggle-toolbar img)").attr("backup_bg", backup_bg);
 			$("body.sitelinx-background-color #sitelinx-body-wrap *:not(#sitelinx-toggle-toolbar, #sitelinx-toggle-toolbar img)").css({"background-color": bgcolor});
-			$(".sitelinx_background_color").slideDown('fast');
+			$(".sitelinx_background_color").slideDown('slow');
 			
 		}else{
 			
 			// var backup_bg = $("body #sitelinx-body-wrap *[backup_bg]:not(#sitelinx-toggle-toolbar, #sitelinx-toggle-toolbar img)").val();
 			$("body #sitelinx-body-wrap *:not(#sitelinx-toggle-toolbar, #sitelinx-toggle-toolbar img)").css("background-color",'');
-			$(".sitelinx_background_color").slideUp('fast');
+			$(".sitelinx_background_color").slideUp('slow');
 			
 		}
 		
@@ -546,27 +546,4 @@ jQuery(document).ready(function($){
 		// var backup_bg = $("body #sitelinx-body-wrap *[backup_bg]:not(#sitelinx-toggle-toolbar, #sitelinx-toggle-toolbar img)").val();
 		$("body #sitelinx-body-wrap *:not(#sitelinx-toggle-toolbar, #sitelinx-toggle-toolbar img)").css("background-color", '');
 	});
-
-	//hide show the logo on click
-	jQuery("#sitelinx_statement").hover(function(){
-		jQuery(".hide-on-hover-stat").css("display", "none");
-		jQuery("#show-on-ho").css("display", "block");
-		}, function(){
-		jQuery("#show-on-ho").css("display", "none");
-		jQuery(".hide-on-hover-stat").css("display", "block");
-	    
-	  });
-	
-	//hide show the feedback
-	jQuery("#sitelinx_feedback").hover(function(){
-		jQuery(".hide-on-feed").css("display", "none");
-		jQuery("#show-ho-feed").css("display", "block");
-		}, function(){
-		jQuery("#show-ho-feed").css("display", "none");
-		jQuery(".hide-on-feed").css("display", "block");
-	    
-	  });
-
 });
-  
-
